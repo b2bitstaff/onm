@@ -1,0 +1,28 @@
+{
+  "origin": "https://operacionninosdemexico.com",
+  "date": "2026-11-11T05:10:23.457Z",
+  "pages": 7,
+  "assets": 184,
+  "bytes": 11564423,
+  "pageList": [
+    "/",
+    "/newBlogPost-zhIumN",
+    "/patrocinadores",
+    "/colaborar",
+    "/que-hacemos",
+    "/contacto",
+    "/sobre-nosotros"
+  ],
+  "failedPages": [],
+  "failedAssets": [
+    "403 https://assets.zyrosite.com/",
+    "404 https://operacionninosdemexico.com/_astro-1783633478669/%23mask0_2145_9545",
+    "404 https://operacionninosdemexico.com/_astro-1783633478669/%23mask0_2170_12150",
+    "404 https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1920,fit=crop/mv0ka8BQOnHjGQ2L/heather-suggitt-unsplash-mv035w3bRMURZKGj.jpg",
+    "404 https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=375,fit=crop/mv0ka8BQOnHjGQ2L/heather-suggitt-unsplash-mv035w3bRMURZKGj.jpg",
+    "404 https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=768,fit=crop/mv0ka8BQOnHjGQ2L/heather-suggitt-unsplash-mv035w3bRMURZKGj.jpg",
+    "404 https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1024,fit=crop/mv0ka8BQOnHjGQ2L/heather-suggitt-unsplash-mv035w3bRMURZKGj.jpg",
+    "404 https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1440,fit=crop/mv0ka8BQOnHjGQ2L/heather-suggitt-unsplash-mv035w3bRMURZKGj.jpg",
+    "404 https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=2800,fit=crop/mv0ka8BQOnHjGQ2L/heather-suggitt-unsplash-mv035w3bRMURZKGj.jpg"
+  ]
+}
